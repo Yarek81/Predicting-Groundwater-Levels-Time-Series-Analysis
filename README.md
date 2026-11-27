@@ -1,15 +1,7 @@
-<div align="center">
+<div align="left">
 
 # Predicting Groundwater Levels in Columbus, OH
 **Time series analysis and forecasting of groundwater levels using historical hydrological (USGS) and meteorological (NOAA) data.**
-
-![Python](https://shields.io)
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![Statsmodels](https://shields.io)
-![Matplotlib](https://shields.io)
-![Seaborn](https://shields.io)
-
 
 </div>
 
